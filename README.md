@@ -1,6 +1,6 @@
 # USBOOT-SHELL
 SCRIPT OF BOOT USB 
 
-bash / sh 
+bash / sh usboot.sh
 
 
